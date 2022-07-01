@@ -6,11 +6,11 @@ Experienced Full Stack Developer adept in all stages of advanced web development
 <br>
 ## Technical Skills
 
-# Programming Languages
+### Programming Languages
 C#, C++, JavaScript, SQL, HTML, CSS
-# Database
+### Database
 Microsoft SQL Server, MySQL
-# Frameworks/Platforms
+### Frameworks/Platforms
 .NET Framework, ASP.NET, ASP.NET Core, Entity Framework, React.js, Azure, AWS
 <!--
 **supercoder-m-d/supercoder-m-d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
