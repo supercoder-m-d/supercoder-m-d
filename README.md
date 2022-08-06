@@ -11,7 +11,7 @@ C#, C++, JavaScript, SQL, HTML, CSS, Solidity
 ### Database
 Microsoft SQL Server, MySQL, MongoDB
 ### Frameworks/Platforms
-.NET Framework, ASP.NET, ASP.NET Core, Entity Framework, React.js, Azure, AWS, Node.js, Truffle, Hardat, Remix, IPFS, OpenZeppelin
+.NET Framework, ASP.NET, ASP.NET Core, Entity Framework, React.js, Web3.js, Azure, AWS, Node.js, Truffle, Hardat, Remix, IPFS, OpenZeppelin
 <!--
 **supercoder-m-d/supercoder-m-d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
