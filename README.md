@@ -15,6 +15,13 @@ C#, C++, JavaScript, SQL, HTML, CSS, Solidity
 Microsoft SQL Server, MySQL, MongoDB
 ### Frameworks/Platforms
 .NET Framework, ASP.NET, ASP.NET Core, Entity Framework, React.js, Web3.js, Azure, AWS, Node.js, Truffle, Hardat, Remix, IPFS, OpenZeppelin
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=supercoder-m-d&show_icons=true&locale=en&layout=compact" alt="supercoder-m-d" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=supercoder-m-d&show_icons=true&locale=en" alt="supercoder-m-d" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=supercoder-m-d&" alt="supercoder-m-d" /></p>
+
 <!--
 **supercoder-m-d/supercoder-m-d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
